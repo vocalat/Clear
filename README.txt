@@ -1,24 +1,5 @@
-SARAÇHANE STUDY — GITHUB PAGES UPLOAD
+Saraçhane Study V2
 
-Upload every file in this folder directly to the ROOT of your GitHub repository named study.
+Upload every file in this folder to the root of the GitHub repository. GitHub Pages should use main / (root).
 
-The repository root should contain:
-- index.html
-- manifest.webmanifest
-- sw.js
-- icon-192.png
-- icon-512.png
-- README.txt (optional)
-
-GitHub Pages settings:
-1. Open repository Settings.
-2. Open Pages.
-3. Source: Deploy from a branch.
-4. Branch: main.
-5. Folder: /(root).
-6. Save.
-
-Live address:
-https://vocalat.github.io/study/
-
-The app stores lesson progress locally on your iPhone. It does not upload personal data.
+The app contains no family forms, interviews, personal notes, visit logs, or research diary. Progress stays locally in the browser under the existing sarachhane-study-v3 key.
